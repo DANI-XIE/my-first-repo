@@ -28,8 +28,9 @@ age = int(input('请输入您的年龄：'))
 if age < 18:
     print(f'您输入的年龄是{age}, 童工')
 
-elif(age >= 18) and (age <= 60):
+elif(age >= 18) and (age <= 60): # 可以化简，新代码：elif 18 <= age <= 60
     print(f'您输入的年龄是{age}, 合法')
 
 elif age > 60:
     print(f'您输入的年龄是{age}, 退休年龄')
+    
