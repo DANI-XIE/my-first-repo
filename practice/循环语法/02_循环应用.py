@@ -76,3 +76,4 @@ while i <= 100:
     result += i
     i += 2
 print(result)
+
