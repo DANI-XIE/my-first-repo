@@ -1,4 +1,10 @@
 """
+[summary]
+Author: XIE DA NI (xiedani@poweroak.net)
+Created: 2025-07-25
+"""
+
+"""
 1. 打印1个星星
 2. 一行5个，循环--5个星星在一行显示
 3. 打印5行星星：循环 --1行5个
