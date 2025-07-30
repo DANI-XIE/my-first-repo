@@ -4,4 +4,13 @@
 
 a = 100
 
+print(a)
+
 def testA():
+    print(a)
+
+def testB():
+    print(a)
+
+testA()
+testB()
