@@ -17,3 +17,4 @@ sum_result = sum_numbers(3)  # 3是真实参数
 # 输出结果为6
 print(sum_result)
 
+# 如果没有出口，报错，超出最大递归深度
