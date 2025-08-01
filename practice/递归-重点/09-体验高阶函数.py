@@ -13,3 +13,6 @@ def sum_num(a, b, f):
 
 result1 = sum_num(-1, 5, abs)
 print(result1)
+
+result2 = sum_num(1.1, 1.9, round)
+print(result2)
